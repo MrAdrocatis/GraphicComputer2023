@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Box.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MousePad.cpp
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\MousePad.cpp(44,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\MousePad.cpp(47,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\MousePad.cpp(47,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\MousePad.cpp(55,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\MousePad.cpp(58,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\MousePad.cpp(58,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\MousePad.cpp(70,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\MousePad.cpp(70,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\MousePad.cpp(82,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\MousePad.cpp(82,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  Box.vcxproj -> C:\Dokumen & Tugas Kampus Pens\Graphic Computer\ExperimenterSource\ExperimenterSource\Chapter4\Box\Debug\MousePad.exe
