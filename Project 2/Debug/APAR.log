@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LightAndMaterial2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  APAR.cpp
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(18,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(56,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(128,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(136,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(147,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(157,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(161,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(252,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(254,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(323,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(327,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(331,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(335,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(339,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(343,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(390,43): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\APAR.cpp(391,62): warning C4305: '+=': truncation from 'double' to 'float'
+  APAR.vcxproj -> C:\Dokumen & Tugas Kampus Pens\Graphic Computer\Project 2\Debug\APAR tugas akhir.exe
